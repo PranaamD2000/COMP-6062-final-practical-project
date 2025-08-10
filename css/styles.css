@@ -1,0 +1,17 @@
+body {
+    font-size: 14;
+    /* background-color: lightblue!important; */
+  }
+section {
+  background-color: lightblue;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+  @media (max-width: 768px) {
+    /* changing the width of the image from 150 to 100 */
+    img.img-thumbnail {
+      width: 100px;
+    }
+  }
+  
